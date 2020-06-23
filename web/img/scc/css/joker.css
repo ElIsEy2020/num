@@ -1,0 +1,41 @@
+header, footer {
+    background-color: rgb(129, 18, 18);
+}
+ p,a{
+    background-color: rgb(255, 174, 0);
+ }
+ h3{
+     background-color: violet;
+ }   
+ h2{
+     background-color: teal;
+ }
+ a {
+    background-color: steelblue;
+}
+nav {
+    background-color:red;
+  }
+  
+  /* Navbar */
+  
+  .navbar-brand {
+    font-size: 50px;
+    font-weight: 600;
+  }
+  
+  .nav-link, .dropdown-item {
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: lowercase;
+  }
+  
+  nav li {
+    padding: 0 18px;
+  }
+  
+  nav li.active, nav li.active:before {
+    background-color: rgba(80, 180, 110, 0.1);
+    border-radius: 5px;
+  }
+  

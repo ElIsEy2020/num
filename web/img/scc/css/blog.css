@@ -1,0 +1,15 @@
+header, footer {
+    background-color: rgb(129, 18, 18);
+}
+ p,a{
+    background-color: rgb(255, 174, 0);
+ }
+ h3{
+     background-color: violet;
+ }   
+ h2{
+     background-color: teal;
+ }
+ a {
+    background-color: steelblue;
+}
